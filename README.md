@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Codecinn27's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecinn27&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
